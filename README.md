@@ -29,11 +29,3 @@ This project follows a **Layered Architecture**:
   - Insufficient customer balance
   - Invalid product state
 
----
-
-## 📦 Sample Products
-
-```java
-Product cheese = new Product("Cheese", 100, 10, false, true, 0.5f);
-Product tv = new Product("TV", 300, 5, false, true, 7.0f);
-Product scratchCard = new Product("Scratch Card", 50, 100, false, false, 0.0f);
